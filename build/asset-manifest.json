@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.2309da0d.chunk.css",
-    "main.js": "/static/js/main.4b904a86.chunk.js",
-    "main.js.map": "/static/js/main.4b904a86.chunk.js.map",
+    "main.js": "/static/js/main.a8215135.chunk.js",
+    "main.js.map": "/static/js/main.a8215135.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b0b48847.js",
     "runtime-main.js.map": "/static/js/runtime-main.b0b48847.js.map",
     "static/css/2.f4c56af9.chunk.css": "/static/css/2.f4c56af9.chunk.css",
@@ -20,7 +20,7 @@
     "static/css/2.f4c56af9.chunk.css.map": "/static/css/2.f4c56af9.chunk.css.map",
     "static/css/main.2309da0d.chunk.css.map": "/static/css/main.2309da0d.chunk.css.map",
     "static/js/2.2a56e014.chunk.js.LICENSE.txt": "/static/js/2.2a56e014.chunk.js.LICENSE.txt",
-    "static/js/main.4b904a86.chunk.js.LICENSE.txt": "/static/js/main.4b904a86.chunk.js.LICENSE.txt",
+    "static/js/main.a8215135.chunk.js.LICENSE.txt": "/static/js/main.a8215135.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/telegrama_render.18e7d1dd.otf",
     "static/media/vip_back.png": "/static/media/vip_back.bd45801e.png"
   },
@@ -29,6 +29,6 @@
     "static/css/2.f4c56af9.chunk.css",
     "static/js/2.2a56e014.chunk.js",
     "static/css/main.2309da0d.chunk.css",
-    "static/js/main.4b904a86.chunk.js"
+    "static/js/main.a8215135.chunk.js"
   ]
 }
