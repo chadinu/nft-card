@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.e4055903.chunk.css",
-    "main.js": "/static/js/main.21d8af9d.chunk.js",
-    "main.js.map": "/static/js/main.21d8af9d.chunk.js.map",
+    "main.js": "/static/js/main.72bff8c7.chunk.js",
+    "main.js.map": "/static/js/main.72bff8c7.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.dce1088f.js",
     "runtime-main.js.map": "/static/js/runtime-main.dce1088f.js.map",
     "static/css/2.f4c56af9.chunk.css": "/static/css/2.f4c56af9.chunk.css",
@@ -20,16 +20,16 @@
     "static/css/2.f4c56af9.chunk.css.map": "/static/css/2.f4c56af9.chunk.css.map",
     "static/css/main.e4055903.chunk.css.map": "/static/css/main.e4055903.chunk.css.map",
     "static/js/2.ed7e7a4e.chunk.js.LICENSE.txt": "/static/js/2.ed7e7a4e.chunk.js.LICENSE.txt",
-    "static/js/main.21d8af9d.chunk.js.LICENSE.txt": "/static/js/main.21d8af9d.chunk.js.LICENSE.txt",
+    "static/js/main.72bff8c7.chunk.js.LICENSE.txt": "/static/js/main.72bff8c7.chunk.js.LICENSE.txt",
     "static/media/logo_thumb.png": "/static/media/logo_thumb.ff9a8aef.png",
     "static/media/index.css": "/static/media/telegrama_render.18e7d1dd.otf",
-    "static/media/vip_back.png": "/static/media/vip_back.bd45801e.png"
+    "static/media/vip_back.png": "/static/media/vip_back.c71c8aeb.png"
   },
   "entrypoints": [
     "static/js/runtime-main.dce1088f.js",
     "static/css/2.f4c56af9.chunk.css",
     "static/js/2.ed7e7a4e.chunk.js",
     "static/css/main.e4055903.chunk.css",
-    "static/js/main.21d8af9d.chunk.js"
+    "static/js/main.72bff8c7.chunk.js"
   ]
 }
