@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.7b1f4395.chunk.css",
-    "main.js": "/static/js/main.954e7de7.chunk.js",
-    "main.js.map": "/static/js/main.954e7de7.chunk.js.map",
+    "main.js": "/static/js/main.352d1af5.chunk.js",
+    "main.js.map": "/static/js/main.352d1af5.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.63a5c384.js",
     "runtime-main.js.map": "/static/js/runtime-main.63a5c384.js.map",
     "static/css/2.f4c56af9.chunk.css": "/static/css/2.f4c56af9.chunk.css",
@@ -20,7 +20,7 @@
     "static/css/2.f4c56af9.chunk.css.map": "/static/css/2.f4c56af9.chunk.css.map",
     "static/css/main.7b1f4395.chunk.css.map": "/static/css/main.7b1f4395.chunk.css.map",
     "static/js/2.1f662a3c.chunk.js.LICENSE.txt": "/static/js/2.1f662a3c.chunk.js.LICENSE.txt",
-    "static/js/main.954e7de7.chunk.js.LICENSE.txt": "/static/js/main.954e7de7.chunk.js.LICENSE.txt",
+    "static/js/main.352d1af5.chunk.js.LICENSE.txt": "/static/js/main.352d1af5.chunk.js.LICENSE.txt",
     "static/media/Chad Inu Logo.png": "/static/media/Chad Inu Logo.ab08dfa9.png",
     "static/media/index.css": "/static/media/telegrama_render.18e7d1dd.otf",
     "static/media/vip_back.png": "/static/media/vip_back.c71c8aeb.png"
@@ -30,6 +30,6 @@
     "static/css/2.f4c56af9.chunk.css",
     "static/js/2.1f662a3c.chunk.js",
     "static/css/main.7b1f4395.chunk.css",
-    "static/js/main.954e7de7.chunk.js"
+    "static/js/main.352d1af5.chunk.js"
   ]
 }
